@@ -23,6 +23,7 @@ class LinkedList:
         current = self.head
         while current is not None:
             print(current.data, end = ' ')
+            current=current.next()
      
  
 a_llist = LinkedList()
