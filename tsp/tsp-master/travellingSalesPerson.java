@@ -56,5 +56,3 @@ public class travellingSalesPerson {
 		System.out.println("1");
 	}
 }
-
-
